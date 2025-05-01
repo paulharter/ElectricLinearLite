@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>db_url</key>
+	<string>https://api.electric-sql.cloud</string>
+	<key>source_id</key>
+	<string>xxxxxx</string>
+	<key>source_secret</key>
+	<string>xxxxxx</string>
+</dict>
+</plist>

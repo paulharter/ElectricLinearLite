@@ -1,0 +1,15 @@
+{
+  "originHash" : "575ddb633e8a6a0eb82e1a8a36a0cffa557c1d3e0176e092de556e18eba7c081",
+  "pins" : [
+    {
+      "identity" : "electricsync",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paulharter/ElectricSync",
+      "state" : {
+        "branch" : "main",
+        "revision" : "571082d5d657f793c3427d0dbbef18d669470327"
+      }
+    }
+  ],
+  "version" : 3
+}
